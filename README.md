@@ -19,6 +19,8 @@ Please get [The golden ticket: P, NP, and the search for the impossible](https:/
 [The Traveling Salesman Problem:
 A Computational Study](http://press.princeton.edu/chapters/s9531.pdf) (David Applegate et al).
 
+[Python tutorial on programming TSP heuristics](http://nbviewer.jupyter.org/url/norvig.com/ipython/TSP.ipynb)
+
 ***P vs. NP***
 
 MIT OCW Introduction to Algorithms: [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8)  
@@ -32,7 +34,8 @@ MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](htt
 #### Readings (after class 1)
 [In Pursuit of the Traveling Salesman:
 Mathematics at the Limits of Computation](http://press.princeton.edu/chapters/s8451.pdf), Chapter 1.  
-The Golden Ticket, Chapter 1
+The Golden Ticket, Chapter 1  
+Khan Academy [video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) and the two accompanying exercises [1](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game) [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
 
 ### 2. P vs. NP
 
