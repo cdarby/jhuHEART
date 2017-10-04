@@ -50,11 +50,13 @@ The Golden Ticket, Chapter 3, 4
 ### 3. Graph paths in bioinformatics: genome assembly
 #### Readings (after class 3)
 Phillip Compeau, Pavel Pevzner, Glenn Tesler. [How to apply de Bruijn graphs to genome assembly.](http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html) Nature Biotech. 2011  
+[Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s&t=52s) 
 
-### 4. P vs. NP and the [Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s&t=52s)
+### 4. P vs. NP and the Computational Complexity Zoo
 
 #### Readings (after class 4)
 The Golden Ticket, Chapter 6, 5   
+[A perspective](https://www.ibm.com/developerworks/community/blogs/jfp/entry/no_the_tsp_isn_t_np_complete?lang=en) on the nuances of the TSP  
 
 ### 5. Heuristics and Computability    
 
