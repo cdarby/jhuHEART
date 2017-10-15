@@ -30,7 +30,13 @@ MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](htt
 ***Graph Paths in Bioinformatics***
 
 [de Bruijn graphs and Eulerian walks](https://www.youtube.com/watch?v=TNYZZKrjCSk) 
-from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing 
+from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing  
+
+
+***P vs. NP in popular culture***  
+
+[This episode](http://www.imdb.com/title/tt3125780/) of *Elementary* (CBS, 2013)
+
 ## Schedule  
 ### 1. The The Traveling Salesman Problem (TSP)  
 
@@ -61,25 +67,26 @@ The Golden Ticket, Chapter 6, 5
 ### 5. Heuristics and Computability    
 
 #### Readings (after class 5)
+["Antibodies"](http://www.baen.com/Chapters/9781625791870/9781625791870___2.htm) (short story) by Charles Stross  
+SIGACT News [2002](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) and [2012](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf) surveys of computer scientists (William Gasarch)  
+The Golden Ticket, Chapter 2
 
-### 5.5 (Optional, no class scheduled for October 18)
-[This episode](http://www.imdb.com/title/tt3125780/) of *Elementary* (CBS, 2013)
-### 6. Logic circuits
+### 5.5 Film: [Travelling Salesman, 2012](http://www.imdb.com/title/tt1801123/)
+
+### 6. Social implications of P vs. NP   
 
 #### Readings (after class 6)
-The Golden Ticket, Chapter 7
-
-### 7. Cryptography  
+Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009.
+### 7. Logic circuits
 
 #### Readings (after class 7)
-The Golden Ticket, Chapter 8, 2, 10  
-### 8. Film: [Travelling Salesman, 2012](http://www.imdb.com/title/tt1801123/)
-#### Readings (after class 8)
-["Antibodies"](http://www.baen.com/Chapters/9781625791870/9781625791870___2.htm) (short story) by Charles Stross  
-SIGACT News [2002](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) and [2012](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf) surveys of computer scientists (William Gasarch) 
-### 9. Social implications of P vs. NP   
+The Golden Ticket, Chapter 7
 
-#### Readings (after class 9)
-Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009.  
+### 8. Cryptography  
+
+#### Readings (after class 8)
+The Golden Ticket, Chapter 8, 10  
+
+### 9.   
 
 ### 10. Presentations: Applications of hard problems / Algorithmic strategies 
