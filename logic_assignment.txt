@@ -1,0 +1,22 @@
+Your assignment for class on Nov. 1st is necessary to prepare you for our in-class activities. You will become familiar with Boolean logic and circuits, described in The Golden Ticket chapter 7 (pg. 113-118).
+
+1. Find brief definitions of these terms and be able to give an example, when applicable.  
+
+Boolean logic (1's and 0's)  
+Boolean arithmetic (add, multiply)   
+Boolean operators ("AND", "OR", "NOT")  
+Truth table    
+Boolean circuits ("AND", "OR", "NOT")   
+
+
+2. Expand your research to include at least one of these topics:  
+
+Connections between Boolean formulae and circuits  
+Connections to Venn diagrams   
+Boolean formula (or circuit) satisfiability  
+Boolean operators ("NAND","NOR","XOR")  
+
+- Look for videos, "question-answer" boards, and textbook-like tutorials online. University course notes and slides may also be helpful advanced resources.
+- I encourage you to take notes on your research and bring them to class.  
+- Bring lingering questions to class, do research with your classmates, and email me at any time.
+- No written work will be collected, but you will be evaluated on the quality of your questions and the knowledge you demonstrate in class.  

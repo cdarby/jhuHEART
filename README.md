@@ -27,6 +27,8 @@ MIT OCW Introduction to Algorithms: [Computational Complexity](https://www.youtu
 
 MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](https://www.youtube.com/watch?v=mr1FMrwi6Ew&t=2592s)
  
+Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009.   
+
 ***Graph Paths in Bioinformatics***
 
 [de Bruijn graphs and Eulerian walks](https://www.youtube.com/watch?v=TNYZZKrjCSk) 
@@ -36,6 +38,8 @@ from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing
 ***P vs. NP in popular culture***  
 
 [This episode](http://www.imdb.com/title/tt3125780/) of *Elementary* (CBS, 2013)
+
+Related to the movie - essay by British mathematician G. H. Hardy [A Mathematician's Apology](https://en.wikipedia.org/wiki/A_Mathematician%27s_Apology)  
 
 ## Schedule  
 ### 1. The The Traveling Salesman Problem (TSP)  
@@ -76,17 +80,21 @@ The Golden Ticket, Chapter 2
 ### 6. Social implications of P vs. NP   
 
 #### Readings (after class 6)
-Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009.
+ 
+The Golden Ticket, Chapter 7
+
+[Pre-class research](logic_assigment.txt)
 ### 7. Logic circuits
 
+[Project Requirements](project.txt)
+
 #### Readings (after class 7)
-The Golden Ticket, Chapter 7
+
+The Golden Ticket, Chapter 8, 10  
 
 ### 8. Cryptography  
 
 #### Readings (after class 8)
-The Golden Ticket, Chapter 8, 10  
 
-### 9.   
-
-### 10. Presentations: Applications of hard problems / Algorithmic strategies 
+### 9. Presentations 
+### 10. Presentations cont'd. 
