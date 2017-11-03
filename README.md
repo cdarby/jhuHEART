@@ -58,6 +58,9 @@ The Golden Ticket, Chapter 3, 4
 [Refresher on DNA](https://youtu.be/s1j-DuYJFr0) as preparation for Class 3
 
 ### 3. Graph paths in bioinformatics: genome assembly
+
+[Class Activity](activitySept27.pdf)  
+
 #### Readings (after class 3)
 Phillip Compeau, Pavel Pevzner, Glenn Tesler. [How to apply de Bruijn graphs to genome assembly.](http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html) Nature Biotech. 2011  
 [Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s&t=52s) 
@@ -70,6 +73,9 @@ The Golden Ticket, Chapter 6, 5
 
 ### 5. Heuristics and Computability    
 
+[Turing Machine Video](https://youtu.be/dNRDvLACg5Q)  
+[Halting Problem Video](https://youtu.be/macM_MtS_w4)
+
 #### Readings (after class 5)
 ["Antibodies"](http://www.baen.com/Chapters/9781625791870/9781625791870___2.htm) (short story) by Charles Stross  
 SIGACT News [2002](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) and [2012](https://www.cs.umd.edu/~gasarch/papers/poll2012.pdf) surveys of computer scientists (William Gasarch)  
@@ -79,6 +85,8 @@ The Golden Ticket, Chapter 2
 
 ### 6. Social implications of P vs. NP   
 
+[In-class discussion](discussionOct25.pdf)
+
 #### Readings (after class 6)
  
 The Golden Ticket, Chapter 7
@@ -86,7 +94,8 @@ The Golden Ticket, Chapter 7
 [Pre-class research](logic_assigment.txt)
 ### 7. Logic circuits
 
-[Project Requirements](project.txt)
+[Quiz](quizNov1.pdf)  
+[Class Activity](activityNov1)
 
 #### Readings (after class 7)
 
@@ -97,4 +106,9 @@ The Golden Ticket, Chapter 8, 10
 #### Readings (after class 8)
 
 ### 9. Presentations 
-### 10. Presentations cont'd. 
+[Project Requirements](project.txt)  
+
+Liam, Eric, Sam, Matt, Christopher
+
+### 10. Presentations cont'd.
+Sara, David, Aidan, Elliot, Randy 
