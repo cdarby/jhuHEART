@@ -25,9 +25,7 @@ A Computational Study](http://press.princeton.edu/chapters/s9531.pdf) (David App
 
 MIT OCW Introduction to Algorithms: [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8)  
 
-MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](https://www.youtube.com/watch?v=mr1FMrwi6Ew&t=2592s)
- 
-Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009.   
+MIT OCW Design and Analysis of Algorithms: [P,NP,NP-completeness,Reductions](https://www.youtube.com/watch?v=mr1FMrwi6Ew&t=2592s)  
 
 ***Graph Paths in Bioinformatics***
 
@@ -40,6 +38,10 @@ from Ben Langmead's (JHU CS Professor) Coursera, Algorithms in DNA Sequencing
 [This episode](http://www.imdb.com/title/tt3125780/) of *Elementary* (CBS, 2013)
 
 Related to the movie - essay by British mathematician G. H. Hardy [A Mathematician's Apology](https://en.wikipedia.org/wiki/A_Mathematician%27s_Apology)  
+
+***Cryptography***
+
+[RSA Algorithm Video](https://youtu.be/wXB-V_Keiu8)
 
 ## Schedule  
 ### 1. The The Traveling Salesman Problem (TSP)  
@@ -103,7 +105,15 @@ The Golden Ticket, Chapter 8, 10
 
 ### 8. Cryptography  
 
+[Lava Lamps and Random Numbers Video](https://youtu.be/1cUUfMeOijg)  
+[RSA Concept Video (Long Bank Number)](https://youtu.be/M7kEpw1tn50)  
+[Zero-knowlege games](http://www.rigb.org/christmaslectures08/html/activities/zero-knowledge-games.pdf) 
+
 #### Readings (after class 8)
+
+Lance Fortnow. [The Status of the P Versus NP Problem.](https://cacm.acm.org/magazines/2009/9/38904-the-status-of-the-p-versus-np-problem/fulltext) Communications of the ACM, 2009. 
+
+Zack Grossbart. [P vs. NP: The Assumption That Runs The Internet](https://www.smashingmagazine.com/2015/11/p-vs-np-assumption-that-runs-internet/) Magazine article (Smashing Magazine), 2015.
 
 ### 9. Presentations 
 [Project Requirements](project.txt)  
